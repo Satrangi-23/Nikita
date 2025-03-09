@@ -1,14 +1,3 @@
-import streamlit as st
-import random
-from PIL import Image
-import base64
-import io
-from datetime import datetime
-import pandas as pd
-import numpy as np
-import plotly.express as px
-import time
-
 # Set page config
 st.set_page_config(
     page_title="Happy Birthday Nikita!",
